@@ -16,8 +16,9 @@ Testing the chaincode
 npm run test
 
 Tasks:
-Clone the repsoitory to your GitHub account.
 
-Complete the empty functions.
+1.Clone the repsoitory to your GitHub account.
 
-Submit the GitHub repository link
+2.Complete the empty functions.
+
+3.Submit the GitHub repository link
