@@ -1,7 +1,7 @@
 #### BCDV 1026 Blockchain Platforms
 #### BCDV 1025 Enterprise Blockchain
 
-##### Lab 6 Chaincode Writing #####
+##### Lab 2  #####
 
 ##### Description: ##### 
 The chaincode is the consortium between the multiple transit agencies in GTA. 
