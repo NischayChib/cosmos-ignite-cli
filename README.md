@@ -1,4 +1,5 @@
-#### BCDV 1026 Blockchain platforms####
+#### BCDV 1026 Blockchain Platforms
+#### BCDV 1025 Enterprise Blockchain
 
 ##### Lab 6 Chaincode Writing #####
 
